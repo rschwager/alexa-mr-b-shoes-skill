@@ -1,0 +1,17 @@
+{
+  "name": "mr_b_shoes_skill",
+  "version": "1.0.0",
+  "description": "Alexa Science Project Skill",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "alexa-app-server": "^3.0.1",
+    "csv": "*",
+    "dateformat": "*"
+  },
+  "engines": {
+    "node": "6.9.1"
+  }
+}

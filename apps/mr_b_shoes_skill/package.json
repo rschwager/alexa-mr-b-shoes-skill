@@ -1,0 +1,14 @@
+{
+  "name": "mr_b_shoes_skill",
+  "version": "1.0.0",
+  "description": "Science Project Skill for Alexa",
+  "main": "index.js",
+  "author": "Hannah Schwager",
+  "license": "",
+  "alexa": {
+    "applicationId": "amzn1.ask.skill.b725274a-f3cf-4e94-9856-903f71d4894c"
+  },
+  "dependencies": {
+    "alexa-app": "^2.3.4"
+  }
+}
